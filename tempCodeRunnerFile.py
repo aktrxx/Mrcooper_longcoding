@@ -1,0 +1,6 @@
+ret = RetailShop("hehe","hhe")
+ret.addProduct("p1",1,300,40)
+ret.addProduct("p2",2,400,30)
+ret.getProductDetails(1)
+ret.addQuantity(1,10000)
+ret.is_sold(1)
